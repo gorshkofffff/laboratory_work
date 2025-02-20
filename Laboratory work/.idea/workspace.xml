@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c5aea444-ce48-4a01-b6df-cc4fc10ed6ed" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/11.2.1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/11.3.1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/11.3.2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/11.4.1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/11.4.2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/11.4.3/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/12.2.1/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/12.2.1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/12.2.2/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/12.2.2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/12.3.1/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/12.3.1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/12.3.2/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/12.3.2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/12.3.3/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/12.3.3/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/12.3.3/my_file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/12.4.1/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/12.4.1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/12.4.2/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/12.4.2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/13.2.1/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/13.2.1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/13.4.1/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/13.4.1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/13.4.2/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/13.4.2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/13.4.3/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/13.4.3/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/13.5.1/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/13.5.1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/13.5.2/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/13.5.2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/13.5.2/numbers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/14.2.1/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/14.2.1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/14.2.2/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/14.2.2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/14.3.1/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/14.3.1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/14.3.2/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/14.3.2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/14.4.1/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/14.4.1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/14.4.2/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/14.4.2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/15.2.1/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/15.2.1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/15.4.1/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/15.4.1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/15.4.2/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/15.4.2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/15.5.1/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/15.5.1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/15.5.1/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/15.5.2/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/15.5.2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/15.6.1/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/15.6.1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/16.2.1/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/16.2.1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/16.2.2/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/16.2.2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/16.3.1/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/16.3.1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/16.3.2/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/16.3.2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/16.4.1/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/16.4.1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/16.4.2/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/16.4.2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/17.2.1/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/17.2.1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/17.4.1/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/17.4.1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/17.4.2/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/17.4.2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/17.5.1/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/17.5.1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/17.5.2/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/17.5.2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/17.5.3/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/17.5.3/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/17.5.3/second_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/18.2.1/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/18.2.1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/18.2.2/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/18.2.2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/18.3.1/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/18.3.1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/18.3.2/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/18.3.2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/18.4.1/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/18.4.1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/18.4.2/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/18.4.2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/CurrencyBot/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/CurrencyBot/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/CurrencyBot/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/CurrencyBot/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/CurrencyBot1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/Example/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/Example_BD/DB/work_db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/Example_BD/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/NetworkX/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/NetworkX/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/SQL/database.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SkillBox Lessons/SQL/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python_Basic" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python_Basic" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python_Basic 1" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python_Basic 1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/10.4.1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/10.4.1/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/10.4.2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/10.4.2/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/NOD" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/NOD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/test/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/test/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/test1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/test1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SkillBox Lessons/test1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../SkillBox Lessons/test1/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2tJTEg8YoL5CjTrk40oi1ztfVjO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Roman/PycharmProjects/Laboratory work/Laboratory work/venv",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.client">
+    <configuration name="client" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Laboratory work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/client.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Laboratory work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.client" />
+        <item itemvalue="Python.server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5aea444-ce48-4a01-b6df-cc4fc10ed6ed" name="Changes" comment="" />
+      <created>1740069067140</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740069067140</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+</project>
